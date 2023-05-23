@@ -1,0 +1,33 @@
+h1, h3{
+    color: #005677;
+    background-color: #C4C4C4;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+header{
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+.section1 span{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+footer{
+    background-color: #005677;
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 10px;
+}
+
+footer img{
+    padding-left: 10px;
+    padding-right: 10px;
+}
